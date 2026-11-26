@@ -1,6 +1,6 @@
 # LATTICE
 
-An exact-arithmetic lattice computation engine in C++20.
+An exact-arithmetic lattice computation engine 
 
 The project is being developed incrementally. The first milestone establishes the integer and rational arithmetic foundations required for lattice algorithms.
 
